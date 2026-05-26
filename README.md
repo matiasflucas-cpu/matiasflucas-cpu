@@ -49,10 +49,4 @@ const lucas = {
 
 ---
 
-## 📫 Onde me encontrar
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/aixona](https://github.com/matiasflucas-cpu))
-
 </div>
