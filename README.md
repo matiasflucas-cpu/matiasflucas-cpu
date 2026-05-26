@@ -8,20 +8,31 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho **15 anos** e sou estudante do curso técnico em **Informática para Internet** no **Colégio Batista Mineiro**. Estou construindo minha base em programação, uma linha de código por vez.
+Tenho **15 anos** e sou estudante do curso técnico em **Informática para Internet** no **Colégio Batista Mineiro**. Minha área favorita é **Desenvolvimento Web** e aprendo de todo jeito — escola, YouTube, projetos práticos. Uma linha de código por vez.
 
-Meu objetivo é aprender cada vez mais e, no futuro, entrar de vez no mercado de tecnologia. 
+
+Meu objetivo é crescer cada vez mais e, no futuro, entrar de vez no mercado de tecnologia.
+
+<sub>*"E nós conhecemos, e cremos no amor que Deus nos tem. Deus é amor; e quem está em amor está em Deus, e Deus nele." — 1 João 4:16*</sub>
 
 ```javascript
 const lucas = {
   idade: 15,
   curso: "Informática para Internet",
   escola: "Colégio Batista Mineiro",
+  foco: "Desenvolvimento Web",
+  estuda: ["YouTube", "Projetos práticos", "Escola"],
   objetivo: "Crescer na área de tecnologia",
   interesses: ["Jogos", "Futebol", "Programação"],
-  atualmente: "Aprendendo JavaScript 🚀"
+  fe: "Cristão ✝️"
 };
 ```
+
+---
+
+## ✝️ Fé
+
+Sou cristão e acredito em Deus. Minha fé faz parte de quem eu sou.
 
 ---
 
@@ -39,14 +50,23 @@ const lucas = {
 
 ---
 
+## 🎮 Games que jogo
+
+<div align="center">
+
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Brawl Stars](https://img.shields.io/badge/Brawl%20Stars-FFDD00?style=for-the-badge&logo=supercell&logoColor=black)
+![FIFA](https://img.shields.io/badge/EA%20FC-003087?style=for-the-badge&logo=ea&logoColor=white)
+
+</div>
+
+---
+
 ## ⚡ Curiosidades
 
 - 🎮 Gamer nas horas vagas
 - ⚽ Apaixonado por futebol
 - 💻 Fascinado por tecnologia em geral
-- 📚 Sempre buscando aprender algo novo
+- ✝️ Cristão, acredito em Deus
 - 🎯 **Meta:** Construir uma carreira sólida em tecnologia
 
----
-
-</div>
