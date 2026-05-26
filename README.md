@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&color=F7B731&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Matias!+%F0%9F%91%8B;Estudante+de+Inform%C3%A1tica+para+Internet;Apaixonado+por+Games+%F0%9F%8E%AE+e+Futebol+%E2%9A%BD" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=1000&color=F7B731&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+Matias!+%F0%9F%91%8B;Estudante+de+Inform%C3%A1tica+para+Internet;Apaixonado+por+Games+%F0%9F%8E%AE+e+Futebol+%E2%9A%BD" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 Tenho **15 anos** e sou estudante do curso técnico em **Informática para Internet** no **Colégio Batista Mineiro**. Estou construindo minha base em programação, uma linha de código por vez.
 
-Meu objetivo é aprender cada vez mais e, no futuro, entrar de vez no mercado de tecnologia. Fora do teclado? Tô no campo ou no controle. ⚽🎮
+Meu objetivo é aprender cada vez mais e, no futuro, entrar de vez no mercado de tecnologia. 
 
 ```javascript
 const lucas = {
@@ -53,15 +53,6 @@ const lucas = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aixona)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/aixona](https://github.com/matiasflucas-cpu))
 
 </div>
-
----
-
-<div align="center">
-
-*"A jornada de mil projetos começa com o primeiro commit."* 🚀
-
-</div>
-
